@@ -24,8 +24,11 @@ Authentication & authorization layer
 
 🧩 Repository Structure
 /residencias-gsb/
+
 ├── frontend/   → React + Tailwind + TypeScript client
+
 ├── backend/    → NestJS + MongoDB server
+
 └── README.md   → You are here
 
 Frontend Repository: https://github.com/Locotomate21/Frontend
